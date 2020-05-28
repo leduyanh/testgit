@@ -9,6 +9,4 @@ branch2 tiếp
 
 
 local pull
-
-local fetch
-sadsads
+sdfsdfds
