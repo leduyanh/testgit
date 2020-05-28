@@ -9,3 +9,5 @@ branch2 tiếp
 
 
 local pull
+
+remote fetch
